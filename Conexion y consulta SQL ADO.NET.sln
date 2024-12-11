@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 1", "Ejercicio 1\Ejercicio 1.csproj", "{F674D1A3-4557-4496-9C02-9987D899598F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "script", "script", "{F4300E92-4FF9-438A-9DB3-BA1E752C9F63}"
+	ProjectSection(SolutionItems) = preProject
+		PruebaADO.sql = PruebaADO.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F674D1A3-4557-4496-9C02-9987D899598F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F674D1A3-4557-4496-9C02-9987D899598F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F674D1A3-4557-4496-9C02-9987D899598F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F674D1A3-4557-4496-9C02-9987D899598F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

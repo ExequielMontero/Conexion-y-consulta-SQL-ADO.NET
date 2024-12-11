@@ -1,0 +1,9 @@
+//string connectionString = "Server=DESKTOP-3M720L6; Database=PruebaADO; Integrated Security=True;";
+
+El connection string de arriba cumple la misma funcion que el siguiente:
+
+
+//string connectionString = "Data Source=DESKTOP-3M720L6; Initial Catalog=PruebaADO; Integrated Security=True;";
+
+--En caso de tener un usuario en nuestra base de datos que tenga contraseña
+debemos utilizar user=*****;password=*****;
